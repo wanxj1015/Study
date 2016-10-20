@@ -1,0 +1,78 @@
+﻿
+任玉刚, 博客 :  http://blog.csdn.net/singwhatiwanna, github : https://github.com/singwhatiwanna 
+
+
+Trinea, 博客 : http://www.trinea.cn/, github : https://github.com/trinea
+
+
+郭林, 博客 : http://blog.csdn.net/guolin_blog
+
+
+鸿洋, 博客 : http://blog.csdn.net/lmj623565791
+
+
+夏安明, 博客 : http://blog.csdn.net/xiaanming
+
+
+张兴业, 博客: http://blog.csdn.net/xyz_lmn
+
+
+爱哥， 博客 : http://blog.csdn.net/aigestudio
+
+
+徐医生, 博客 :  http://blog.csdn.net/eclipsexys
+
+
+马天宇, 博客 : http://litesuits.com/, github : https://github.com/litesuits
+
+
+浩气雄鹰, 博客 : http://blog.csdn.net/jltxgcy
+
+
+王鹏，博客 : http://blog.csdn.net/wangjinyu501/
+
+
+阳光小强, 博客 : http://blog.csdn.net/dawanganban/
+
+
+谭东 , 博客 : http://www.aplesson.com/
+
+
+胡凯, 博客 : http://hukai.me/, github : https://github.com/kesenhoo
+
+qiujuer.net, 
+博客 : http://blog.csdn.net/qiujuer/, github : https://github.com/qiujuer
+
+
+张涛， 博客 : http://blog.kymjs.com
+
+
+兰亭风雨 , 博客 : http://blog.csdn.net/ns_code
+
+
+
+Mr.Simple ( 群主 ), 博客 : http://blog.csdn.net/bboyfeiyu, github : https://github.com/bboyfeiyu
+
+
+
+你应该关注的github项目 
+
+
+Android开发技术前线 :  https://github.com/bboyfeiyu/android-tech-frontier
+
+Android源码设计模式解析 : https://github.com/simple-android-framework/android_design_patterns_analysis
+
+
+android-open-source-projects : https://github.com/Trinea/android-open-project
+
+开源库架构解析 ( codekk , 参与的人高手众多 ):  https://github.com/android-cn/android-open-project-analysis
+
+
+
+你应该关注的几个网站 
+
+http://androidweekly.net/
+http://androidweekly.cn/
+
+码农周刊 : http://weekly.manong.io/
+
